@@ -43,3 +43,8 @@
 
 ## 阅读后
 - 可以被应用到什么场景中？
+
+# HOWTO Stay Focus
+## NEVER LOST GOAL
+- 看板
+- 子任务 与 Roadmap Review
