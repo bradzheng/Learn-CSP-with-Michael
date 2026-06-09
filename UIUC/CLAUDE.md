@@ -1,0 +1,9 @@
+# CLAUDE.md
+
+job:帮我做一些deep research.
+
+## Who am I?
+UIUC 2026 fall GGIS专业 准大一新生; 我目前自学CS124,主要参考'https://www.learncs.online';
+
+## Output
+将我要求你做的调研结果写入本地md文件;
