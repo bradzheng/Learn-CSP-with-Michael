@@ -48,3 +48,31 @@
 ## NEVER LOST GOAL
 - 看板
 - 子任务 与 Roadmap Review
+
+# 明确的Schedule
+- Jun 14: 18 ~ 20 多维数组、Import & Lib、List
+- Jun 15: 21 ~ 23 Map & Sets、Collections(下午生日会)
+- Jun 16: 24 ~ 28 Object初步
+- Jun 17: 29 ~ 32 Object进阶
+- Jun 18: 33 ~ 35 Reference与指针
+- Jun 19: 36 ~ 38 Exception
+- Jun 20: 39 ~ 41 Interface(与Object关系紧密)
+- Jun 21: 42 ~ 43 Class高级特效补充
+- Jun 22: 44 ~ 46 链表与算法
+- Jun 23: 47 ~ 50 Tree和递归
+- Jun 24: 51 ~ 53 Sort Algorithm
+- Jun 25: 54 ~ 55 Search & Hashing
+- Jun 26: 56 ~ 58 Map相关
+- Jun 27: 59 ~ 60 Graph
+- Jun 28: 复盘函数
+- Jun 29: 复盘Object
+- Jun 30: 复盘Object抽象的地方
+- Jul 01: 复盘指针与Reference
+- Jul 02: 复盘Exception
+- Jul 03: 复盘Algorithm basic - Recursion
+- Jul 04: 复盘Algorithm basic - List
+- Jul 05: 复盘Algorithm basic - Tree
+- Jul 06: 复盘Algorithm basic - Map
+- Jul 07: 复盘Algorithm basic - Sort
+- Jul 08: 复盘Algorithm basic - Graph
+
