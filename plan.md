@@ -22,6 +22,8 @@
 # 每日复盘
 ## 1. 10分钟：
 - 总结今天学习/完成/思考了什么？
+    - 今天学习的知识和哪些已知的内容可以发生关联？
+    - 跳出这个知识点本身，从整个学科(全局视角)来看，本知识点的作用/地位/应用场景;
 - 遇到什么困难？如何思考和应对的？
 - 今天哪些努力对我的goal有贡献？能有多大推进？
 - 明天需要做哪些调整对实现goal效率更高？
@@ -50,29 +52,29 @@
 - 子任务 与 Roadmap Review
 
 # 明确的Schedule
-- Jun 14: 18 ~ 20 多维数组、Import & Lib、List
-- Jun 15: 21 ~ 23 Map & Sets、Collections(下午生日会)
-- Jun 16: 24 ~ 28 Object初步
-- Jun 17: 29 ~ 32 Object进阶
-- Jun 18: 33 ~ 35 Reference与指针
-- Jun 19: 36 ~ 38 Exception
-- Jun 20: 39 ~ 41 Interface(与Object关系紧密)
-- Jun 21: 42 ~ 43 Class高级特效补充
-- Jun 22: 44 ~ 46 链表与算法
-- Jun 23: 47 ~ 50 Tree和递归
-- Jun 24: 51 ~ 53 Sort Algorithm
-- Jun 25: 54 ~ 55 Search & Hashing
-- Jun 26: 56 ~ 58 Map相关
-- Jun 27: 59 ~ 60 Graph
-- Jun 28: 复盘函数
-- Jun 29: 复盘Object
-- Jun 30: 复盘Object抽象的地方
-- Jul 01: 复盘指针与Reference
-- Jul 02: 复盘Exception
-- Jul 03: 复盘Algorithm basic - Recursion
-- Jul 04: 复盘Algorithm basic - List
-- Jul 05: 复盘Algorithm basic - Tree
-- Jul 06: 复盘Algorithm basic - Map
-- Jul 07: 复盘Algorithm basic - Sort
-- Jul 08: 复盘Algorithm basic - Graph
+- Jun 16: 18 ~ 20 多维数组、Import & Lib、List
+- Jun 17: 21 ~ 23 Map & Sets、Collections(下午生日会)
+- Jun 18: 24 ~ 28 Object初步
+- Jun 19: 29 ~ 32 Object进阶
+- Jun 20: 33 ~ 35 Reference与指针
+- Jun 21: 36 ~ 38 Exception
+- Jun 22: 39 ~ 41 Interface(与Object关系紧密)
+- Jun 23: 42 ~ 43 Class高级特效补充
+- Jun 24: 44 ~ 46 链表与算法
+- Jun 25: 47 ~ 50 Tree和递归
+- Jun 26: 51 ~ 53 Sort Algorithm
+- Jun 27: 54 ~ 55 Search & Hashing
+- Jun 28: 56 ~ 58 Map相关
+- Jun 29: 59 ~ 60 Graph
+- Jun 30: 复盘函数
+- Jul 01: 复盘Object
+- Jul 02: 复盘Object抽象的地方
+- Jul 03: 复盘指针与Reference
+- Jul 04: 复盘Exception
+- Jul 05: 复盘Algorithm basic - Recursion
+- Jul 06: 复盘Algorithm basic - List
+- Jul 07: 复盘Algorithm basic - Tree
+- Jul 08: 复盘Algorithm basic - Map
+- Jul 09: 复盘Algorithm basic - Sort
+- Jul 10: 复盘Algorithm basic - Graph
 
