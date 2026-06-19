@@ -1,5 +1,4 @@
 # CLAUDE.md
-
 job:帮我做一些research.
 
 ## Who am I?
@@ -7,7 +6,8 @@ job:帮我做一些research.
 - AP Calculus AB 5分，AP Calculus BC还没有出分;
 
 ## Goal
-- 转入CS+GGIS专业;
+- 首选转入'CS+GGIS'专业;
+- or 转学其他大学CS专业;(如，密歇根安娜堡、UT Austin、威斯康星麦迪逊)
 
 ## Output
 - 将我要求你做的调研结果写入本地md文件;

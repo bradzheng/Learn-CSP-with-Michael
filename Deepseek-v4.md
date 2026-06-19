@@ -65,4 +65,27 @@ curl -H "Authorization: Bearer sk-aec160dd7cf342069df83971008da2e4" https://api.
 //登录名nick4025362460
 //绑定手机13923729362
 
+# 8. 商汤公测(比较垃圾)
+## url: https://platform.sensenova.cn/console
+- username: bradzheng75
+- psw: $Sxxxxxxxxx8
+## Base url:
+- https://token.sensenova.cn/v1
+## model: deepseek-v4-flash
+## api Key
+- sk-eYnBQdNNOazMUMylSUKcZX35oOcGvsZB
 
+# 9. 讯飞星辰
+## url: https://maas.xfyun.cn/modelSquare?ch=maas_lm_k7C
+## Model ID: xopqwen36v35b
+## http协议
+- 服务名称: herness
+- 接口地址(OpenAI/Codex/OpanClaw): https://maas-api.cn-huabei-1.xf-yun.com/v2
+- 接口地址(Anthropic Claude 兼容): https://maas-api.cn-huabei-1.xf-yun.com/anthropic
+- api key: 4a0a0ff646785014f140a113388f22d6:MWJkZjJhNTNlOGQ0ZDlmNDg2ZGJiZDg5
+## WebSocket协议
+- 服务名称: herness
+- 接口地址: wss://maas-api.cn-huabei-1.xf-yun.com/v1.1/chat
+- api key: 4a0a0ff646785014f140a113388f22d6
+- app id: 84038e3f
+- APISecret: MWJkZjJhNTNlOGQ0ZDlmNDg2ZGJiZDg5
